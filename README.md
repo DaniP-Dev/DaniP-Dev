@@ -1,8 +1,13 @@
-<h1>Hola</h1>
-<h2>Hola</h2>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejemplo de Alerta en JavaScript</title>
+</head>
+<body>
 
+<script>
+    alert("¡Hola! Este es un mensaje de alerta.");
+</script>
 
-\
-def saludo(): print("Hola, mundo!")
-saludo()
-\
+</body>
+</html>
