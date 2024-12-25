@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ejemplo de Alerta en JavaScript</title>
-</head>
-<body>
+```javascript
+alert("¡Hola! Este es un mensaje de alerta.");
 
-<script>
-    alert("¡Hola! Este es un mensaje de alerta.");
-</script>
-
-</body>
-</html>
