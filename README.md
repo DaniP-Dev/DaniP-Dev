@@ -1,4 +1,4 @@
-<h1 align="center">💙 ¡Hola! Soy [Tu Nombre] y hago que la tecnología trabaje para ti 🚀</h1>
+<h1 align="center">💙 ¡Hola! Soy Daniel Perez y hago que la tecnología trabaje para ti 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="180"><br>
@@ -49,16 +49,27 @@
 
 <h2 align="center">📬 ¿Hablamos?</h2>
 <p align="center">
-  <a href="https://twitter.com/tu_usuario" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/Danipe_23" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/tu_usuario" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/danielpe971223/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tu_portafolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portafolio-F5A623?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio">
+  <a href="#" style="pointer-events: none; opacity: 0.5;" title="Próximamente" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portafolio-F5A623?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio (próximamente)">
   </a>
 </p>
 
 <h2 align="center">🎉 ¡Gracias por visitar mi perfil!</h2>
 
+<p align="center">
+  <b>👇 ¡Sigue bajando para ver mis proyectos populares, actividad y más sobre mi trabajo! 👇</b>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/573001234567" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Contáctame%20en%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+<!-- Aquí GitHub mostrará automáticamente tus repositorios populares, actividad y contribuciones -->
