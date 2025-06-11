@@ -33,4 +33,19 @@
   <a href="https://tu_portafolio.com" target="_blank">Portafolio</a>
 </p>
 
+<h2 align="center" style="color: #7ED321;">🌐 Mis páginas en Vercel</h2>
+<p align="center">
+  <a href="https://criter-ia.vercel.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/CriterIA-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="CriterIA">
+  </a>
+  <br>
+  <a href="https://pagina-de-seguros.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Página%20de%20Seguros-D0021B?style=for-the-badge&logo=vercel&logoColor=white" alt="Página de Seguros">
+  </a>
+  <br>
+  <a href="https://raicesdeoro.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Raíces%20de%20Oro-7ED321?style=for-the-badge&logo=vercel&logoColor=white" alt="Raíces de Oro">
+  </a>
+</p>
+
 <h2 align="center" style="color: #D0021B;">🎉 ¡Gracias por visitar mi perfil!</h2>
