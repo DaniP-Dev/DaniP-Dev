@@ -1,4 +1,4 @@
-<h1 align="center">💙 ¡Hola! Soy Daniel Perez y hago que la tecnología trabaje para ti 🚀</h1>
+<h1 align="center">💙 ¡Hola! Soy [Tu Nombre] y hago que la tecnología trabaje para ti 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="180"><br>
@@ -12,7 +12,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td valign="top" align="center" width="50%">
       <h2>🌟 Proyectos Destacados</h2>
@@ -61,3 +61,4 @@
 </p>
 
 <h2 align="center">🎉 ¡Gracias por visitar mi perfil!</h2>
+
