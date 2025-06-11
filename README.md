@@ -67,9 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/573001234567" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/+573016328564" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Contáctame%20en%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-
-<!-- Aquí GitHub mostrará automáticamente tus repositorios populares, actividad y contribuciones -->
