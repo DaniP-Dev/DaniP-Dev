@@ -1,4 +1,4 @@
-<h1 align="center">💙 ¡Hola! Soy [Tu Nombre] y hago que la tecnología trabaje para ti 🚀</h1>
+<h1 align="center">💙 ¡Hola! Soy Daniel Perez y hago que la tecnología trabaje para ti 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="180"><br>
