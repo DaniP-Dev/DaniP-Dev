@@ -1,26 +1,29 @@
 #4A90E2;">¡Bienvenido a mi perfil de GitHub! 🚀</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="180"><br>
+      <b>¡Hola! Soy un apasionado desarrollador que ama crear soluciones innovadoras.<br>
+      Aquí encontrarás algunos de mis proyectos y contribuciones.<br>
+      ¡No dudes en explorar!</b>
+    </td>
+    <td align="center">
+      <b>🌈 Paleta de Colores</b><br>
+      <img src="https://singlecolorimage.com/get/4A90E2/50x50" title="#4A90E2"> #4A90E2<br>
+      <img src="https://singlecolorimage.com/get/D0021B/50x50" title="#D0021B"> #D0021B<br>
+      <img src="https://singlecolorimage.com/get/F5A623/50x50" title="#F5A623"> #F5A623<br>
+      <img src="https://singlecolorimage.com/get/7ED321/50x50" title="#7ED321"> #7ED321<br>
+      <img src="https://singlecolorimage.com/get/9013FE/50x50" title="#9013FE"> #9013FE<br>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center" style="color: #D0021B;">🌈 Paleta de Colores</h2>
-<p align="center">
-  <span style="display:inline-block; width: 50px; height: 50px; background-color: #4A90E2;"></span> #4A90E2<br>
-  <span style="display:inline-block; width: 50px; height: 50px; background-color: #D0021B;"></span> #D0021B<br>
-  <span style="display:inline-block; width: 50px; height: 50px; background-color: #F5A623;"></span> #F5A623<br>
-  <span style="display:inline-block; width: 50px; height: 50px; background-color: #7ED321;"></span> #7ED321<br>
-  <span style="display:inline-block; width: 50px; height: 50px; background-color: #9013FE;"></span> #9013FE<br>
-</p>
+<br>
 
 <h2 align="center" style="color: #50E3C2;">✨ Animaciones</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2sa9g8D5g8g8I/giphy.gif" width="200">
-</p>
-
-<h2 align="center" style="color: #B8E986;">📚 Sobre Mí</h2>
-<p align="center" style="max-width: 600px; margin: auto;">
-  ¡Hola! Soy un apasionado desarrollador que ama crear soluciones innovadoras. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡No dudes en explorar!
 </p>
 
 <h2 align="center" style="color: #F8E71C;">🔗 Conéctate Conmigo</h2>
